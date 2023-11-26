@@ -1,2 +1,4 @@
 Add 1st line in the file
 Add 2nd line in the file
+Add 3rd line in the file
+Add 5th line in the file
